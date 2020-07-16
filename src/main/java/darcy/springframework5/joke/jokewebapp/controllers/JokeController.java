@@ -7,9 +7,9 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * @author : Darcy Xian
- * @program : jokewebapp
- * @create : 2020-07-15  22:12
+ * Author : Darcy Xian
+ * Program : jokewebapp
+ * Create : 2020-07-15  22:12
  */
 @Controller
 public class JokeController {
