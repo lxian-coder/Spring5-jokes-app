@@ -9,7 +9,7 @@
     </parent>
     <groupId>Darcy.SpringFramework5.joke</groupId>
     <artifactId>jokewebapp</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>jokewebapp</name>
     <description>jokeapp project for Spring Boot</description>
 
@@ -65,7 +65,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/lxian-coder/Spring5-jokes-app.git</developerConnection>
-      <tag>jokewebapp-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
